@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the lavvfnluess [sic] of the oath of allegiance to the king, and of the other oath to his supremacy. Written for the benefit of Quakers and others, who out of scruple of conscience, refuse the oath of allegiance, and supremacy. / By Theophilus Brabourn.</title>
+            <author>Brabourne, Theophilus, b. 1590.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77213</idno>
+            <idno type="STC">Wing B4094</idno>
+            <idno type="STC">Thomason E1085_8</idno>
+            <idno type="STC">ESTC R208072</idno>
+            <idno type="EEBO-CITATION">99867072</idno>
+            <idno type="PROQUEST">99867072</idno>
+            <idno type="VID">169363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169363)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the lavvfnluess [sic] of the oath of allegiance to the king, and of the other oath to his supremacy. Written for the benefit of Quakers and others, who out of scruple of conscience, refuse the oath of allegiance, and supremacy. / By Theophilus Brabourn.</title>
+                  <author>Brabourne, Theophilus, b. 1590.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "march. 18", "1660"; imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+               <term>Royal supremacy (Church of England) --  Early works to 1800.</term>
+               <term>Oaths --  Biblical teaching --  Early works to 1800.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169363:1" rendition="simple:additions"/>
+            <p>OF THE Lavvfulneſs of the oath OF ALLEGIANCE To the KING, AND Of the other oath To his SVPREMACY.</p>
+            <p>Written for the benefit of Quakers and others, who out of ſcruple of Conſcience, refuſe the oath of Allegiance, and Supremacy.</p>
+            <p>By <hi>Theophilus Brabourn.</hi>
+            </p>
+            <p>Printed for the Author, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169363:2"/>
+            <pb n="1" facs="tcp:169363:2"/>
+            <head>Of the Lawfulneſſe of the Oath of Al<g ref="char:EOLhyphen"/>leigeance to the King, and of the other Oath to his Supremacy.</head>
+            <head type="sub">Written for the benefit of Quakers, and others, who out of ſcruple of Con<g ref="char:EOLhyphen"/>ſcience refuſe the Oath of Alliegance, and Supremacy.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſad and grievous to me to hear, of the diſtur<g ref="char:EOLhyphen"/>bance in the Kingdome, by denying a lawful Oath to the King. It troubles me the more to hear, that many who I would hope are conſcientious, are re<g ref="char:EOLhyphen"/>ported to be true of their word, juſt in their dea<g ref="char:EOLhyphen"/>lings, &amp; of good life and converſation among men, and I am apt to beleeve it; now of all men in the Kingdome, I would not have Conſciencious men to walk offenſive to the State, and croſſe to the Laws now in force.</p>
+            <p>I know that in <hi>Holland,</hi> there are very many of opinion, that it is unlawfull for the times of the Goſpell to take an Oath, though it be before a Magiſtrate: yet the States there are ſo indulgent to them, as to condeſcend to their weakneſſe: and inſtead of an oath, to take their word and promiſe: the which is found by experience (they being conſcientious men) to be as true, and they as faithfull to the State in their promiſes, as other men be in their Oath. But for as much, as it is not an eaſie matter, to alter the Laws of our Kingdome, I ſhall do my endeavour, to untie the knots, and take off the fetters, where withall their weak Conſciences ſtand bound.</p>
+            <p>For this end, I ſhall do two things: 1. I ſhall prove that an Oath is lawfull now under the Goſpell. 2. I ſhall anſwer the objections: and ſo looſen their fetters.</p>
+            <div n="1" type="argument">
+               <pb n="2" facs="tcp:169363:3"/>
+               <head>Argument. I.</head>
+               <p>I Hold, that an Oath by the Creature is unlawfull, as to ſwear by the Heaven, Earth, head, &amp;c. But I hold it lawfull to ſwear by God the Creator in a weighty matter: and thus I prove it: ſee <hi>Heb.</hi> 6.16. <hi>For men verily ſwear by him that is greater: and an oath for con<g ref="char:EOLhyphen"/>firmation, is to them an end of all ſtrife and controverſy.</hi> Here St <hi>Paul</hi> allows of an Oath made by him that is greater, that is by God; and this was in the time of the Goſpell. And further, St. <hi>Paul</hi> ſaith, that an Oath among men, is an end of all ſtrife and controverſie: and ſo we find it; for the controverſie between the Judge and the Pri<g ref="char:EOLhyphen"/>ſoner at the bar, whether he be guilty or not guilty, is determined by an Oath: wherefore to ſuppoſe that Chriſt hath forbidden an Oath, it is not only to make Chriſt to deny us one neceſſary means to end our controverſies; but alſo to put us Chriſtians in a worſe condition, then the Church of the Jews were in: for they had the benefit of an Oath to end their controverſies, but we are denyed it.</p>
+               <p>But to this Quakers ſay, that the text ſpeaks of men, ſaying men verily ſwear, &amp;c. but ſay they, we are come out from men, that is from the men of this world; and therefore we are not bound to ſwear. I reply, 1. By the like reaſon you may ſay, we are not bound to be obedient to Magiſtrates, for we are come out from men. Secondly, We are not bound to promiſe to bee true and faithfull to the King: for we are come out from men; and yet you will promiſe to be faithful to the King. Thirdly, <hi>Jacob</hi> was a godly man, and come out from men, and yet he took an Oath to <hi>Laban. Gen.</hi> 31.53. And St. <hi>Paul</hi> was come out from men, and yet he took an Oath, as in the next point I ſhall ſhew.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>Argument. II</head>
+               <p>ST <hi>Paul</hi> lived in times of the Goſpell, and yet he took an Oath by God: which ſheweth, that Chriſt did not forbid Chriſtians to ſwear by God, in <hi>Mat.</hi> 5.34. See 2. <hi>Cor.</hi> 1.23. <hi>I call God for record to my ſoul that to ſpare you I came not to</hi> Corinth: See <hi>Gal.</hi> 1 20. <hi>Paul</hi> ſaid, <hi>Behold before God I lye not;</hi> and to the like, <hi>Rom.</hi> 1 9. and 2 <hi>Cor.</hi> 11 31. So then an Oath is lawfull in the times of the Goſpel.</p>
+               <pb n="3" facs="tcp:169363:3"/>
+               <p>To this ſome ſay, that theſe are no Oaths, becauſe they are not uttered in the form of an Oath, ſaying by God. I reply firſt, if it be no Oath, where there wants the particle <hi>by,</hi> then there is no Oath in Chriſts words, <hi>Mat.</hi> 5.34. <hi>Mat.</hi> 23.16. For though the words be tranſlated by, as by Heaven &amp;c., yet in the Greek text it is <hi>in,</hi> as in Heaven, &amp;c. 2 It is not the particle <hi>by</hi> or <hi>in,</hi> that makes an oath, but it is the mentioning of the name of God, to be a witneſſe to our minds, that the words we ſpeak are true.</p>
+            </div>
+            <div type="observations">
+               <head>Obſervations.</head>
+               <p>QUakers and others ſay, that Chriſt hath forbidden an Oath, ſaying, <hi>Swear not at all,</hi> Mat. 5.34. This text is that iron fet<g ref="char:EOLhyphen"/>ter, whereby their Conſciences are ſo bound up that they dare not take an Oath: but my endeavour ſhall be by my anſwers to this text, to break this bond, and looſen this fetter, my anſwers are theſe.</p>
+               <p n="1">1. We may not underſtand theſe words of Chriſt, to forbid all Oathes in the largeſt ſenſe, ſo as to forbid ſwearing by God in a weighty matter, but to forbid all Oaths by the Creatures, as by the heaven, the earth, or the head: my reaſon for it is becauſe St <hi>Paul</hi> as hath been proved, ſwore by God more then once or twice: this St. <hi>Paul</hi> would not have done, if Chriſt in this text, <hi>Mat.</hi> 5.34. had forbidden to ſwear by God in a weighty matter.</p>
+               <p n="2">2 The word God is not mentioned in the text; nor neceſſari<g ref="char:EOLhyphen"/>ly implyed: Chriſt made a large enumeration of forbidden oaths, as by heaven, by earth, by the head, <hi>Mat.</hi> 5 34. by the Temple, by the gold of the Temple, by the Altar, and by the offering upon it, <hi>Mat.</hi> 23.16. But not a word of or againſt ſwearing by God: ſurely ther<g ref="char:EOLhyphen"/>fore he did not intend to forbid ſwearing by God: the religious Jews were ever trained up with the uſe of an oath by God, <hi>Deut.</hi> 6.13. And did highly honour it as a part of Gods worſhip: now if Chriſt know it to be a ſin, in times of the Goſpel to ſwear by God, as it was a ſin in the prophane Jews to ſwear by the Creatures, doubtleſſe he would have reckoned up this ſwearing by God as a ſin, as well as he reckoned up many ſinful Oathes by the Creatures, it muſt be ſo, unleſſe we ſhould think, Chriſt was more mindfull of the good, and ſalvation of the ſuperſtitious Jews, then of the reli<g ref="char:EOLhyphen"/>gious Jews.</p>
+               <pb n="4" facs="tcp:169363:4"/>
+               <p>But you will ſay, though Chriſt did not mention an Oath by God, yet it is neceſſarily imployed; becauſe Chriſt ſaid in general termes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wear not at all: I anſw. it is well known by the learned, that gene<g ref="char:EOLhyphen"/>ſall termes, are not alwaies uſed in the moſt large ſenſe, as you may ſee, <hi>Col.</hi> 1.23. <hi>Rom.</hi> 8.22. <hi>Ioh.</hi> 12.19. and 1 <hi>Ioh.</hi> 2.2. But I ſhall inſiſt upon theſe two texts, <hi>Exod.</hi> 20.10. <hi>On the Sabbath thou ſhalt do no work, Lev.</hi> 16.29. <hi>Thou ſhalt do no work at all;</hi> Theſe generall ex<g ref="char:EOLhyphen"/>preſſions are not to be underſtood in the moſt large ſenſe: for ne<g ref="char:EOLhyphen"/>ceſſary works of mercy are excepted: and ſo though Chriſt ſaid, ſwear not at all, yet an Oath by God may be excepted: ſo there is a generality in Chriſts words, as ſwear not at all, by any of the Cre<g ref="char:EOLhyphen"/>tures, as Heaven, Earth, Head, Temple, Alter, &amp;c.</p>
+               <p n="3">3. Quakers and others, do abuſe theſe words of Chriſt, and ſo pervert the true ſenſe of them: for they alleage theſe words, <hi>ſwear not at all:</hi> as if a period was put to them, and as if Chriſt had added no more words to them in that verſe, or of that matter: they divide thoſe words they alleage, to the words added to them by Chriſt: now ſo to do, is to pervert the ſenſe of Scripture, as when Chriſt ſaid, <hi>Mat.</hi> 5.6. <hi>Bleſſed are they that hunger and thirſt after righ<g ref="char:EOLhyphen"/>teouſneſſe.</hi> If one ſhould urge the former words only, and leave out the laſt words added, after righteouſneſſe: ſo he might horribly pervert Chriſt meaning, as if bleſſedneſſe were promiſed to ſuch as are in naturall hunger and thirſt: Juſt ſo, do they pervert Chriſt meaning, who urge his former words, <hi>ſwear not at all,</hi> but leave out his latter words, by Heaven, or by Earth: for Chriſt ſaid <hi>ſwear not at all by Heaven, nor by Earth,</hi> &amp;c. And ſo he forbad nothing, but ſwearing by the Creatures, if you take the words together as Chriſt ſpake them: and then an Oath by God is not forbidden by Chriſt. It is one thing to ſay, <hi>ſwear not at all,</hi> and an other thing to ſay <hi>ſwear not at all by Heaven, or by Earth,</hi> &amp;c. it is one thing not to ſwear at all, and another, not to ſwear at all by the Creatures.</p>
+               <p>
+                  <hi>Object,</hi> Again they object, that St. <hi>James</hi> ſaith, Swear not by Hea<g ref="char:EOLhyphen"/>ven, nor Earth, nor by any other Oath, <hi>Iam.</hi> 5 12. I anſw. 1 there are two ſorts of Oathes, the one by God, the other by the Crea<g ref="char:EOLhyphen"/>tures: Now St <hi>James</hi> may be underſtood, as Chriſts was, to forbid only the oaths by the Creatures, for he mentioneth no other oaths then ſuch, as the Heavvn or the Earth as Chriſt did: 2. By other Oathes, St <hi>Iames</hi> might underſtand the other Oathes of the ſame
+<pb n="5" facs="tcp:169363:4"/>kind with theſe two mentioned by him, as by Heaven or by Earth: now here be two Oathes of this kind mentioned by Chriſt, as by thine head, <hi>Mat.</hi> 5.36 and by the Temple, and by the Altar, &amp;c. <hi>Mat.</hi> 23.16. and theſe Oathes St <hi>James</hi> forbad, but forbad not that other Oath, by God, which is of another kind.</p>
+               <p>
+                  <hi>Oject,</hi> Again they object, that Chriſt ſaid, Let your communicati<g ref="char:EOLhyphen"/>on be yea, yea, and nay, nay, whatſoever is more cometh of Evill, or of the Devill, <hi>Mat.</hi> 5.37. I anſw. 1. Theſe words are to be under<g ref="char:EOLhyphen"/>ſtood with Relation to ſwearing by the Creatures foreſpoken of: as if Chriſt had ſaid, yee ſhall not ſwear by the Creatures, whereof I ſpake before, but inſtead of thoſe Oathes, yee ſhall uſe yea, and nay, as no mention was made before of an Oath by God, ſo this Oath cannot be here implyed: 2. Whatſoever is more then yea, and nay cometh of evill, or of the devill, ſaid Chriſt: Now though an Oath by God, is more than yea, and nay, yet this Oath never came from the evill one, or the Devil, but from God, <hi>Deut.</hi> 6.13. To ſwear by the Creatures is of that evil one or the Devil, and therefore this only is forbidden: 3 St <hi>Paul</hi> confirmed his ſpeech by mentioning the name of God, 2 <hi>Cor,</hi> 1 23. which is more then yea, and nay; wherefore Chriſt intended not by theſe words, to forbid to name God in an Oath, but to name the Creatures in an Oath; this is the more then yea and nay forbidden. Thus I have I hope looſened the bonds, wherwith many tender Conſciences have been tyed up, ſo that now they may ſafely ſwear the Oathes of Alliegance, and Supremacy, and before a Judge to confirm a bond, or in Point of life and death:</p>
+               <p>Now I ſhall remove a ſcruple or two concerning the Oath of Su<g ref="char:EOLhyphen"/>premacy: 1 We cannot aſcribe to God an higher title then Supre<g ref="char:EOLhyphen"/>macy; which is true, but we aſcribe to the King, but a Supremacy next under God and Chriſt; 2 Some ſay, what if the King command ſomething evill? why then, as when he commands good, we muſt be obedient actually by doing it, ſo if he commands evill, we muſt be obedient paſſively by ſuffering: and I beleeve our gracious King, will be ſatisfied with a paſſive obedience, in ſuch caſes as this.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
